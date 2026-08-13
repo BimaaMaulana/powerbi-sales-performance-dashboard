@@ -18,7 +18,6 @@ Dashboard interaktif untuk memantau performa penjualan, profitabilitas, dan peri
 |---|---|---|
 | ![Overview](screenshots/overview.png) | ![Product](screenshots/product-performance.png) | ![Regional](screenshots/regional-analysis.png) |
 
-*(Ganti gambar di atas dengan screenshot dashboard asli — simpan di folder `screenshots/`)*
 
 ---
 
